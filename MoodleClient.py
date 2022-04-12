@@ -53,7 +53,7 @@ class MoodleClient(object):
         if host!='':
             self.path = host
         self.userdata = None
-        self.userid = ''
+        self.userid = '1487'
         self.repo_id = repo_id
         self.sesskey = ''
         self.proxy = None
